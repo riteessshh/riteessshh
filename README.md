@@ -4,7 +4,7 @@
 - 💞️ want to collaborate/or hire me
 - 📫 How to reach me ...
 - mail: riteshk2874@gmail.com
-- twitter: @riteessshh
+- twitter: riteessshh
 - instgram: riteessshh
 
 <!---
