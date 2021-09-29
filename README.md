@@ -1,7 +1,7 @@
 - 👋 Hi, I’m ritesh
 - 👀 I’m interested in coding and programming
 - 🌱 I’m currently learning pyhton
-- 💞️ I’m looking to collaborate on full stack web development
+- 💞️ want to collaborate/or hire me
 - 📫 How to reach me ...
 - mail: riteshk2874@gmail.com
 - twitter: @riteessshh
